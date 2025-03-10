@@ -1,0 +1,43 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Films</string>
+
+    <!-- Autenticación -->
+    <string name="email_hint">Correo Electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="signup_text">¿No tienes cuenta? <b>Regístrate</b></string>
+    <string name="signup_success">Registro exitoso. Ahora puedes iniciar sesión.</string>
+    <string name="signup_failed">Error al registrar. Intenta nuevamente.</string>
+
+    <!-- Películas -->
+    <string name="loading_movies">Cargando películas...</string>
+    <string name="no_movies_found">No se encontraron películas.</string>
+    <string name="movie_poster">Póster de la película</string>
+    <string name="movie_details">Detalles de la Película</string>
+    <string name="release_date">Fecha de Estreno:</string>
+    <string name="rating">Valoración:</string>
+    <string name="overview">Sinopsis:</string>
+
+    <!-- Favoritos -->
+    <string name="no_favorites">No tienes películas favoritas aún.</string>
+    <string name="favorite_button">Añadir a Favoritos</string>
+    <string name="remove_favorite_button">Eliminar de Favoritos</string>
+    <string name="favorite">Favorito</string>
+
+
+    <!-- Acciones de usuario -->
+    <string name="refresh">Actualizar</string>
+    <string name="try_again">Intentar de Nuevo</string>
+    <string name="watch_trailer">Ver Tráiler</string>
+    <string name="add_to_watchlist">Añadir a Lista de Pendientes</string>
+    <string name="remove_from_watchlist">Quitar de Lista de Pendientes</string>
+
+    <!-- Errores y Notificaciones -->
+    <string name="error_loading_movies">Error al cargar películas. Intenta nuevamente.</string>
+    <string name="error_no_internet">No hay conexión a Internet.</string>
+    <string name="error_server">Error en el servidor. Intenta más tarde.</string>
+    <string name="error_generic">Ocurrió un error inesperado.</string>
+</resources>
